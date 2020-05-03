@@ -1,28 +1,20 @@
-# This is a large heading
+# Jebin Tony Raj
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in the lively town of Ambasamudram, lying along the Western Ghats near the southern end of Tamil Nadu, India.
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+I read quite a few books but so far my favourites are:
+- Harry Potter series by *J.K. Rowling*
+- Sapiens by *Yuval Noah Harrari* 
 
-Here is `some code` in the middle of a sentence.
+### Interests
 
-```
-This is
-a block
-of code
-```
+Its a wide spectrum by can often fall on these categories
+1. Engineering - `Mechanical`
+2. Mathematics
+3. Linux
 
-Here is how you make [a link](https://www.wikipedia.org/).
 
-![This is an image.](https://i.ibb.co/3v1p5Qn/Screenshot-from-2020-04-29-21-38-29.png)
